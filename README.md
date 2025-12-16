@@ -89,5 +89,38 @@
     ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
     
 </p>
-
 <br>
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> GitHub Stats
+
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alaminakash810&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+<img title="🔥 Get streak stats" alt="Mark streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=alaminakash810&theme=dark&hide_border=false" /></td>
+<td width="50%" align="center">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaminakash810&theme=dark&hide_border=false&layout=compact&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<br>
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+<br>
+
+<p align = "center">
+    <a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming"></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
