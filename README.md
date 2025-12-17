@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Al Amin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=40&lines=Junior+Software+Engineer;Computer+Science+and+Engineering;Full+Stack+Web+Developer;Complete+Efficiency+in+Laravel;Test+Automation+,+Docker+Django;Always+Learning+New+Things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=40&lines=Junior+Software+Engineer;Computer+Science+and+Engineering;Full+Stack+Web+Developer;Complete+Efficiency+in+Laravel;Test+Automation+,+Docker+and+Django;Always+Learning+New+Things"></a>
 </p>
 <br>
 <p align="center"> 
